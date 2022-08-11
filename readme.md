@@ -37,10 +37,10 @@ so that it becomes easy while selecting and styling the elements using CSS.
 
 ### By completing this project, I learnt many things about CSS. Few include:
 
-- Giving two colors as Background.
-- Learned how to make best use of classes.
-- More about Padding 
+- Learned about giving a circular background for images.
+- More About box-shadow
+- Text alignment
 
 
 
- ### It took me around 4 hours to complete this project ! 
+ ### It took me around 2.5 hours to complete this project ! 
