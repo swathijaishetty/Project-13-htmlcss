@@ -188,5 +188,63 @@ display: flex;
     width:60px;
 }
 
+@media screen and (max-width:1380px){
+    .list,.right img{
+        display: none;
+    }
+}
 
+@media screen and (max-width:1066px){
+    .middle{
+        flex-direction: column;
+        margin-left: -60px;
+    }
+    .right-middle{
+        margin-top: -160px;
+        margin-left: 60px;
+    }
 
+    .top{
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .side{
+        width:600px;
+        flex-wrap: wrap;
+    }
+    .s{
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width:800px){
+    .side{
+        flex-direction: column;
+        margin-left: -60px;
+    }
+
+    .top{
+    
+        margin-left: 100px;
+    }
+    .right-middle{
+        margin-left: -50px;
+    }
+    .left-middle img{
+        width: 430px;
+        height:430px;
+    }
+
+    .left h1{
+        font-size: 50px;
+    }
+    .left{
+        margin-left: 20px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .logo img{
+        margin-left: 20px;
+    }
+}
